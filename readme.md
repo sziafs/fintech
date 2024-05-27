@@ -31,5 +31,5 @@ The Orders backend is built with Node.js. It manages order data, tracking, and o
 
 Made by 
     <tr>
-    <td align="center"><a href="https://github.com/Silve1ra"><b>Felipe Silveira</b></a> 🤙<br /></td>
+    <td align="center"><a href="https://github.com/sziafs"><b>Felipe Silveira</b></a> 🤙<br /></td>
     <tr>
