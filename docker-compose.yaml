@@ -1,0 +1,12 @@
+version: "3.4"
+
+services:
+  dev-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "./services:/src" # tudo que esta dentro de services vai ser guardado dentro de src no docker
+    ports:
+      - "8000:8000" # porta pro django
+      - "4000:4000" # porta pro fastapi
